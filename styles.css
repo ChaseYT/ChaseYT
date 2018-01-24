@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39');
+p {
+	color: red;
+	font-size: 20px;
+	font-family: cursive;
+	font-weight: bold;
+}	
+li {
+	color: green;
+	font-size: 20px;
+	font-family: "Palatino Linotype";
+	font-weight: bold; 
+}
+#life {
+	color: blue;
+	font-size: 40px;
+	font-family: "serif";
+	font-weight: bold;
+	border: 4px solid black;
+	display: inline-block;
+}
+#by {
+	color: red;
+	font-size: 20px;
+	font-family: "Times";
+	font-weight: bold;
+	background-color: cornflowerblue;
+	text-decoration: underline;
+	display: inline-block;
+}
+.intro {
+	color: black;
+	font-size: 20px;
+	font-family: "Times";
+	font-weight: bold;
+}
+#hoi {
+	color: green;
+	font-size: 15px;
+	font-family: "Times";
+	font-weight: bold;
+}
+.center {
+	text-align: center;
+}
+#nope {
+	text-align: center;
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+}
+#hiy-yah {
+	color: firebrick;
+}
+#woo {
+	color: forestgreen;
+}
+#sup {
+	text-decoration: underline;
+}
+#workin {
+	color: green;
+	font-weight: bold;
+	font-family: "Times";
+	font-size: 20px;
+	text-decoration: underline;
+	border: dotted green 10px;
+	background-color: greenyellow;
+}
+.song {
+	text-align: center;
+}
+#FINALLY {
+	color: forestgreen;
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 30px;
+	text-decoration: underline;
+	border: solid red 20px;
+	background-color: greenyellow; 
+}
+.button {
+	background-color: black;
+	height: 50px;
+	width: 100px;
+	text-align: center;
+	border-radius: 80px;
+	box-shadow: 5px 10px #888888;
+}
+
+.button a {
+	text-decoration: none;
+	color: white;
+}
+.Roblox {
+	background-color: black;
+	height: 50px;
+	width: 100px;
+	text-align: center;
+	border-radius: 80px;
+	box-shadow: 5px 10px #888888;
+}
+.Roblox a {
+	text-decoration: none;
+	color: white;
+}
+.LEGObean {
+	font-family: 'Sedgwick Ave';
+	letter-spacing: 1.5px;
+}
+#Decode {
+	font-family: 'Libre Barcode 39', cursive;
+}
+.img {
+	background: linear-gradient(greenyellow);
+}
